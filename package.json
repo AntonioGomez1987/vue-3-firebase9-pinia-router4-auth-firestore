@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "firebase": "^10.6.0",
+    "lucide-vue-next": "^0.298.0",
+    "nanoid": "^5.0.4",
     "pinia": "^2.1.7",
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"
